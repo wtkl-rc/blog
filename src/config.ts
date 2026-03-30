@@ -53,7 +53,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "wtkl's Blog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "assets/home/home.png",
+		icon: "public/assets/home/cheese.webp",
 	},
 
 	bangumi: {
