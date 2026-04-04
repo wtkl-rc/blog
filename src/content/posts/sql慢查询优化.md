@@ -5,7 +5,7 @@ description: 在实习中遇到的sql慢查询
 pinned: false
 tags: [Markdown, Blogging, Mermaid]
 category: Examples
-draft: true
+draft: false
 ---
 昨天下午叫我去优化一个查询接口，传入的参数比较简单，但是查询一个数据要等16秒，接着就开始了我的优化之路。
 ## 定位接口代码
